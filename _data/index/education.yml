@@ -24,6 +24,6 @@
     detail: Sept. 2013 - Jun. 2017
     i18n: company_b_date
   job:
-    detail: Full Stack Developer
+    detail:
     i18n: company_b_job
   icon: fa-plus-square
