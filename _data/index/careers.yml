@@ -12,7 +12,7 @@
   job:
     detail: Software Engineer - Machine Learning
     i18n: Software Engineer
-  icon: fa-plus-square
+  icon: /static/assets/img/landing/siemens.png
 
 - name:
     detail: Center for National Resource Economic Studies, Peking University
