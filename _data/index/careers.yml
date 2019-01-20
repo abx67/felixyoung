@@ -2,12 +2,12 @@
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
     detail: Siemens
-    i18n: Siemens
+    i18n: company_a
   desc:
-    detail: I worked at Siemens
+    detail: I worked at Siemens as a software engineer
     i18n: company_a_desc
   date:
-    detail: Apr. 2016
+    detail: Jun. 2018 - Sept. 2018
     i18n: company_a_date
   job:
     detail: Software Engineer - Machine Learning

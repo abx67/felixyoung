@@ -7,10 +7,10 @@
     detail: I worked at Company A ...
     i18n: company_a_desc
   date:
-    detail: Apr. 2016
+    detail: Sept. 2017 - Feb. 2019
     i18n: company_a_date
   job:
-    detail: CTO
+    detail: 
     i18n: company_a_job
   icon: fa-plus-square
 
