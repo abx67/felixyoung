@@ -18,7 +18,7 @@
     detail: Center for National Resource Economic Studies, Peking University
     i18n: company_b
   desc:
-    detail: I worked at Company B ...
+    detail: I worked at Center for National Resource Economic Studies
     i18n: company_b_desc
   date:
     detail: Feb. 2017 - Apr. 2017
@@ -32,7 +32,7 @@
     detail: Wafer Works Co.
     i18n: company_a
   desc:
-    detail: I worked at Company A ...
+    detail: I worked at Wafer Works Co.
     i18n: company_a_desc
   date:
     detail: Apr. 2016
