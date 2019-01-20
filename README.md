@@ -6,7 +6,7 @@
 
 <https://abx67.github.io/felixyoung/>
 
-<http://www.jarrekk.com>  -- Personal website
+<http://pethax.strangled.net/>  -- Personal website
 
 ![Blog](https://github.com/jarrekk/Jalpc/raw/master/readme_files/Jalpc.png)
 
