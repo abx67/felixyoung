@@ -1,9 +1,9 @@
 # Welcome to Jekyll!
 
 # Website settings
-title: felixyoung
+title: Felix Young homepage
 description: Felix's blog,use Jekyll and github pages.
-keywords: Jack,Jalpc,blog,Jekyll,github,gh-pages
+keywords: Fan,Felix,blog,Jekyll,github,gh-pages
 baseurl:  /felixyoung # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
 url: https://abx67.github.io/felixyoung  # url should be 'http://<github_username>.github.io/homepage' as before
 # url: http://127.0.0.1:4000
@@ -20,7 +20,7 @@ author:  # change following line to your infomation.
   facebook_username:   # Leave blank if you don't have now
   twitter_username:   # Leave blank if you don't have now
   email: fanyang.felix@gmail.com  # Leave blank if you don't have now
-  cv: https://github.com/abx67/felixyoung/raw/master/files/Resume_FanYang_Columbia.pdf  # An online CV can be printed as PDF, leave blank if you don't have now
+  cv: https://www.icloud.com/iclouddrive/06TCjXiUDtkgoBeUlcmlcyWdA#Resume_FanYang_Columbia  # An online CV can be printed as PDF, leave blank if you don't have now
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
   skill_icon1:
     - name: icon-apache
