@@ -7,19 +7,19 @@
     </div>
     <div class="row features-block">
         <div class="col-lg-12">
-
-            <img src="{{ site.author.avatar | prepend: site.baseurl }}" height="50" width="50" class="img-responsive img-circle" alt="">
+<!-- 
+            <img src="{{ site.author.avatar | prepend: site.baseurl }}" height="50" width="50" class="img-responsive img-circle" alt=""> -->
 
             <div id="vertical-timeline" class="vertical-container light-timeline center-orientation">
             {% for career in site.data.index.careers %}
             {% assign loopindex = forloop.index | modulo: 2 %}
                 <div class="vertical-timeline-block">
 <!--                     <img src="{{ site.author.avatar | prepend: site.baseurl }}" height="50" width="50" class="img-responsive img-circle" alt=""> -->
-                    <img src="{{ site.author.avatar | prepend: site.baseurl }}" height="50" width="50" class="vertical-timeline-icon navy-bg wow rotateIn" alt="">
+<!--                     <img src="{{ site.author.avatar | prepend: site.baseurl }}" height="50" width="50" class="vertical-timeline-icon navy-bg wow rotateIn" alt=""> -->
 
-<!--                     <div class="vertical-timeline-icon navy-bg wow rotateIn">
+                    <div class="vertical-timeline-icon navy-bg wow rotateIn">
                         <i class="fa {{ career.icon }}"></i>
-                    </div> -->
+                    </div>
                     <div class="vertical-timeline-content wow {% if loopindex == 1 %} rotateInUpRight {% else %} rotateInUpLeft {% endif %}">
                         <h2><span data-i18n="career.{{ career.name.i18n }}">{{ career.name.detail }}</span></h2>
                         <p><span data-i18n="career.{{ career.desc.i18n }}">{{ career.desc.detail }} </span></p>
