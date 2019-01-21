@@ -5,8 +5,8 @@
     i18n: company_a
   desc:
     detail: |+
-            Built and modified applications for implementing machine learning algorithms on embedded device
-            Implemented yolo v3 deep learning algorithm for real-time vehicle detection and tracking and license plate recognition
+            Built and modified applications for implementing machine learning algorithms on embedded device \n
+            Implemented yolo v3 deep learning algorithm for real-time vehicle detection and tracking and license plate recognition \n
             Trained the CNN model based on DARKNET neural network framework and reached recall over 90%
             Created prototype for detecting human key points, gesture and OCR based on TensorFlow framework
 
