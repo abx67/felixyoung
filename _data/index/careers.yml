@@ -14,8 +14,22 @@
     i18n: company_a_date
   job:
     detail: Software Engineer - Machine Learning
-    i18n: Software Engineer
+    i18n: company_b_job
   icon: /static/assets/img/landing/siemens.png
+
+- name:
+    detail: Columbia DVMM Lab
+    i18n: company_a
+  desc:
+    detail: pass
+    i18n: company_a_desc
+  date:
+    detail: Feb. 2018 - Jun. 2018
+    i18n: company_a_date
+  job:
+    detail: NLP Researcher
+    i18n: company_b_job
+  icon: /static/assets/img/landing/dvmm.png
 
 - name:
     detail: Center for National Resource Economic Studies, Peking University
