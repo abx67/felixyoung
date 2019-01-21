@@ -12,7 +12,7 @@
   job:
     detail: 
     i18n: company_a_job
-  icon: /static/assets/img/landing/columbia.png
+  icon: /static/assets/img/landing/columbia.jpeg
 
 - name:
     detail: Xi'an Jiaotong University

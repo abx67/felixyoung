@@ -4,7 +4,10 @@
     detail: Siemens
     i18n: company_a
   desc:
-    detail: I worked at Siemens as a software engineer
+    detail:  Built and modified applications for implementing machine learning algorithms on embedded device
+             Implemented yolo v3 deep learning algorithm for real-time vehicle detection and tracking and license plate recognition 
+             Trained the CNN model based on DARKNET neural network framework and reached recall over 90%
+             Created prototype for detecting human key points, gesture and OCR based on TensorFlow framework
     i18n: company_a_desc
   date:
     detail: Jun. 2018 - Sept. 2018
@@ -35,7 +38,7 @@
     detail: I worked at Wafer Works Co.
     i18n: company_a_desc
   date:
-    detail: Apr. 2016
+    detail: Feb. 2016 - Jun. 2016
     i18n: company_a_date
   job:
     detail: Data Engineer
@@ -49,7 +52,7 @@
     detail: I worked at Tarena ...
     i18n: company_a_desc
   date:
-    detail: Apr. 2016
+    detail: Jul. 2016 - Sept. 2016
     i18n: company_a_date
   job:
     detail: Web Developer
