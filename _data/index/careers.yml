@@ -4,14 +4,10 @@
     detail: Siemens
     i18n: company_a
   desc:
-    detail: 
-      line1:
+    detail: |+
             Built and modified applications for implementing machine learning algorithms on embedded device
-      line2:      
             Implemented yolo v3 deep learning algorithm for real-time vehicle detection and tracking and license plate recognition
-      line3:      
             Trained the CNN model based on DARKNET neural network framework and reached recall over 90%
-      line4:      
             Created prototype for detecting human key points, gesture and OCR based on TensorFlow framework
 
     i18n: company_a_desc
@@ -41,7 +37,10 @@
     detail: Center for National Resource Economic Studies, Peking University
     i18n: company_b
   desc:
-    detail: I worked at Center for National Resource Economic Studies
+    detail: Designed and managed data analysis pipeline; built SVM and Random Forest models to analyze economic growth
+            Increased accessibility and usability of customer data by redesigning data visualization techniques to include statistical graphs and information graphics and provided data analysis report including data visualization in tableau
+            Built regression model to analyze relationships between different economic indicators and achieving 10% more accurate prediction of performance than previous years
+
     i18n: company_b_desc
   date:
     detail: Feb. 2017 - Apr. 2017
