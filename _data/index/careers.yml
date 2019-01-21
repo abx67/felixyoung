@@ -12,7 +12,7 @@
             Trained the CNN model based on DARKNET neural network framework and reached recall over 90%
 
             Created prototype for detecting human key points, gesture and OCR based on TensorFlow framework
-            
+
     i18n: company_a_desc
   date:
     detail: Jun. 2018 - Sept. 2018
@@ -55,7 +55,7 @@
     i18n: company_a
   desc:
     detail: Monitoring production data and detected low yield rate problem for manufacturing silicon wafer.
-Applied statistical models (decision tree, KNN, etc.) to find the cause of low yield rate in manufacturing and provided statistical advice to improve.
+            Applied statistical models (decision tree, KNN, etc.) to find the cause of low yield rate in manufacturing and provided statistical advice to improve.
     i18n: company_a_desc
   date:
     detail: Feb. 2016 - Jun. 2016
