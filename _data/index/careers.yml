@@ -26,7 +26,7 @@
   job:
     detail: Data Analyst
     i18n: company_b_job
-  icon: /static/assets/img/landing/avatar.jpg
+  icon: /static/assets/img/landing/peking.png
 
 - name:
     detail: Wafer Works Co.
@@ -40,7 +40,7 @@
   job:
     detail: Data Engineer
     i18n: company_a_job
-  icon: fa-plus-square
+  icon: /static/assets/img/landing/wafer.png
 
 - name:
     detail: Tarena International, Inc.
@@ -54,4 +54,4 @@
   job:
     detail: Web Developer
     i18n: company_a_job
-  icon: fa-plus-square
+  icon: /static/assets/img/landing/tarena.png

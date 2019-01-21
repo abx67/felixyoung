@@ -11,9 +11,13 @@
             {% for education in site.data.index.education %}
             {% assign loopindex = forloop.index | modulo: 2 %}
                 <div class="vertical-timeline-block">
-                    <div class="vertical-timeline-icon navy-bg wow rotateIn">
+
+<!--                     <div class="vertical-timeline-icon navy-bg wow rotateIn">
                         <i class="fa {{ education.icon }}"></i>
-                    </div>
+                    </div> -->
+
+                    <img src="{{ education.icon | prepend: site.baseurl }}" height="50" width="50" class="vertical-timeline-icon wow rotateIn" alt="">
+
                     <div class="vertical-timeline-content wow {% if loopindex == 1 %} rotateInUpRight {% else %} rotateInUpLeft {% endif %}">
                         <h2><span data-i18n="education.{{ education.name.i18n }}">{{ education.name.detail }}</span></h2>
                         <p><span data-i18n="education.{{ education.desc.i18n }}">{{ education.desc.detail }} </span></p>
