@@ -72,9 +72,9 @@
   desc:
     detail: 
       line1:
-            Monitoring production data and detected low yield rate problem for manufacturing silicon wafer
+            "- Monitoring production data and detected low yield rate problem for manufacturing silicon wafer"
       line2:
-            Applied statistical models (decision tree, KNN, etc.) to find the cause of low yield rate in manufacturing and provided statistical advice to improve
+            "- Applied statistical models (decision tree, KNN, etc.) to find the cause of low yield rate in manufacturing and provided statistical advice to improve"
     i18n: company_a_desc
   date:
     detail: Feb. 2016 - Jun. 2016
