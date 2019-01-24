@@ -9,10 +9,24 @@
   date:
     detail: Sept. 2017 - Feb. 2019
     i18n: company_a_date
-  job:
+  course:
     detail: 
     i18n: company_a_job
   icon: /static/assets/img/landing/columbia.jpeg
+
+- name:
+    detail: National Central University
+    i18n: company_b
+  desc:
+    detail: I worked at Company B ...
+    i18n: company_b_desc
+  date:
+    detail: Jan. 2016 - Jul. 2017
+    i18n: company_b_date
+  course:
+    detail:
+    i18n: company_b_job
+  icon: /static/assets/img/landing/ncu.png
 
 - name:
     detail: Xi'an Jiaotong University
@@ -23,7 +37,7 @@
   date:
     detail: Sept. 2013 - Jun. 2017
     i18n: company_b_date
-  job:
+  course:
     detail:
     i18n: company_b_job
   icon: /static/assets/img/landing/xjtu.png
