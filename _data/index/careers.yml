@@ -11,8 +11,8 @@
             "- Implemented yolo v3 deep learning algorithm for real-time vehicle detection and tracking and license plate recognition"
       line3:      
             "- Trained the CNN model based on DARKNET neural network framework and reached recall over 90%"
-      line4: |
-            "- Created prototype for detecting human key points, gesture and OCR based \n on TensorFlow framework"
+      line4:
+            "- Created prototype for detecting human key points, gesture and OCR based on TensorFlow framework"
 
     i18n: company_a_desc
   date:
@@ -29,13 +29,13 @@
   desc:
     detail:       
       line1:
-            Conducted event specific (city traffic) multimodal pattern mining, topic modeling and data mining research
+            "- Conducted event specific (city traffic) multimodal pattern mining, topic modeling and data mining research"
       line2:      
-            Extracted features from Twitter text and applied Hidden Markov Model, Gaussian Mixture Model and K-means method
+            "- Extracted features from Twitter text and applied Hidden Markov Model, Gaussian Mixture Model and K-means method"
       line3:      
-            Implemented Word2vec model and N-gram model for semantic interpretation and refined the corpus on twitter data
+            "- Implemented Word2vec model and N-gram model for semantic interpretation and refined the corpus on twitter data"
       line4: 
-            Used rank constrained regression and fully convolutional networks methods to understand traffic pattern from large-scale web camera videos with low frame rate and low resolution; conducted feature extraction based on OpenCV
+            "- Used rank constrained regression and fully convolutional networks methods to understand traffic pattern from large-scale web camera videos with low frame rate and low resolution"
     i18n: company_a_desc
   date:
     detail: Feb. 2018 - Jun. 2018
@@ -51,11 +51,11 @@
   desc:
     detail: 
       line1: 
-            Designed and managed data analysis pipeline; built SVM and Random Forest models to analyze economic growth
+            "- Designed and managed data analysis pipeline; built SVM and Random Forest models to analyze economic growth"
       line2:
-            Increased accessibility and usability of customer data by redesigning data visualization techniques to include statistical graphs and information graphics and provided data analysis report including data visualization in tableau
+            "- Increased accessibility and usability of customer data by redesigning data visualization techniques to include statistical graphs and information graphics and provided data analysis report including data visualization in tableau"
       line3: 
-            Built regression model to analyze relationships between different economic indicators and achieving 10% more accurate prediction of performance than previous years
+            "- Built regression model to analyze relationships between different economic indicators and achieving 10% more accurate prediction of performance than previous years"
 
     i18n: company_b_desc
   date:
@@ -90,9 +90,9 @@
   desc:
     detail: 
       line1:
-            Assisted to design and develop Net China Telecom Operation Support System based on Apache Tomcat
+            "- Assisted to design and develop Net China Telecom Operation Support System based on Apache Tomcat"
       line2:
-            Designed user interface, created verification code system and managed database; created function for adding/deleting user, adding/deleting plan and provided user manner data analysis report
+            "- Designed user interface, created verification code system and managed database; created function for adding/deleting user, adding/deleting plan and provided user manner data analysis report"
 
     i18n: company_a_desc
   date:
