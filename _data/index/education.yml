@@ -9,6 +9,9 @@
   date:
     detail: Sept. 2017 - Feb. 2019
     i18n: company_a_date
+  degree:
+    detail: Master of Arts in Statistics 
+    i18n: company_a_date   
   course:
     detail: 
     i18n: company_a_job
@@ -23,6 +26,9 @@
   date:
     detail: Jan. 2016 - Jul. 2017
     i18n: company_b_date
+  degree:
+    detail: Exchange Student in Mathematics 
+    i18n: company_a_date 
   course:
     detail:
     i18n: company_b_job
@@ -37,6 +43,9 @@
   date:
     detail: Sept. 2013 - Jun. 2017
     i18n: company_b_date
+  degree:
+    detail: Bachelor of Science in Statistics 
+    i18n: company_a_date 
   course:
     detail:
     i18n: company_b_job
