@@ -6,13 +6,13 @@
   desc:
     detail:
       line1:
-            - Built and modified applications for implementing machine learning algorithms on embedded device
+            \- Built and modified applications for implementing machine learning algorithms on embedded device
       line2:      
-            - Implemented yolo v3 deep learning algorithm for real-time vehicle detection and tracking and license plate recognition
+            \- Implemented yolo v3 deep learning algorithm for real-time vehicle detection and tracking and license plate recognition
       line3:      
-            - Trained the CNN model based on DARKNET neural network framework and reached recall over 90%
+            \- Trained the CNN model based on DARKNET neural network framework and reached recall over 90%
       line4:      
-            - Created prototype for detecting human key points, gesture and OCR based on TensorFlow framework
+            \- Created prototype for detecting human key points, gesture and OCR based on TensorFlow framework
 
     i18n: company_a_desc
   date:
