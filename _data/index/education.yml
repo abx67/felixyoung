@@ -28,7 +28,7 @@
     i18n: company_b_date
   degree:
     detail: Exchange Student in Mathematics
-    i18n: company_a_date 
+    i18n: company_b_job 
   course:
     detail:
     i18n: company_b_job
