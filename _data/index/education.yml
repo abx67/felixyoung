@@ -13,7 +13,7 @@
     detail: Master of Arts in Statistics 
     i18n: company_b_job 
   gpa:
-    detail: "3.86/4.0"
+    detail: "GPA: 3.86/4.0"
     i18n: company_b_job   
   course:
     detail: 
@@ -33,7 +33,7 @@
     detail: Exchange Student in Mathematics
     i18n: company_b_job 
   gpa:
-    detail: "3.8/4.0 (top 1)"
+    detail: "GPA: 3.8/4.0  (top 1)"
     i18n: company_b_job 
   course:
     detail:
@@ -53,7 +53,7 @@
     detail: Bachelor of Science in Statistics 
     i18n: company_b_job 
   gpa:
-    detail: "3.68/4.0 (top 5%)"
+    detail: "GPA: 3.68/4.0  (top 5%)"
     i18n: company_b_job 
   course:
     detail:
