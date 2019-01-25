@@ -159,11 +159,11 @@ img {
 #mobile {
 	position: absolute;
 	left: 50%;
-	top: 130px;
-	bottom: 130px;
+	top: 30px;
+	bottom: 30px;
 	overflow: hidden;
-	width: 560px;
-	margin-left: -280px;
+	width: 360px;
+	margin-left: -180px;
 	background-color: white;
 	-webkit-border-radius: 20px;
 	border-radius: 20px;
@@ -237,7 +237,7 @@ img {
 
 #mobile-body {
 	position: absolute;
-	top: 45px;
+	top: 145px;
 	bottom: 55px;
 	width: 100%;
 	background: #E8F9F6
