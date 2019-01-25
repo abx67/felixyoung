@@ -22,10 +22,16 @@
                         v-for="(msg, index) in messages"
                         :key="index"
                         :class="msg.author === 'xianzhe' ? 'msg-xianzhe' : 'msg-me'">
-                        <div class="msg"
+<!--                         <div class="msg"
                             :class="'msg-bounce-in-' + (msg.author === 'xianzhe' ? 'left': 'right')"
                             :style="msg.width && msg.height && {width: msg.width - 26 + 'px', height: msg.height - 18 + 'px'}"
+                            v-html="msg.content"></div> -->
+
+                        <div class="msg"
+                            :class="'msg-bounce-in-' + (msg.author === 'xianzhe' ? 'left': 'right')"
+                            :style="msg.width && msg.height && {width: msg.width - 1 + 'px', height: msg.height - 1 + 'px'}"
                             v-html="msg.content"></div>
+
                     </div>
                 </div>
             </div>
