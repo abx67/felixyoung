@@ -27,13 +27,13 @@
     detail: I worked at Company B ...
     i18n: company_b_desc
   date:
-    detail: Jan. 2016 - Jul. 2017
+    detail: Jan. 2016 - Jul. 2016
     i18n: company_b_date
   degree:
     detail: Exchange Student in Mathematics
     i18n: company_b_job 
   gpa:
-    detail: "GPA: 3.8/4.0  (top 1)"
+    detail: "GPA: 3.8/4.0\t(top 1)"
     i18n: company_b_job 
   course:
     detail:
@@ -53,7 +53,7 @@
     detail: Bachelor of Science in Statistics 
     i18n: company_b_job 
   gpa:
-    detail: "GPA: 3.68/4.0  (top 5%)"
+    detail: "GPA: 3.68/4.0\t(top 5%)"
     i18n: company_b_job 
   course:
     detail:
