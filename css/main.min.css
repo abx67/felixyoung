@@ -237,7 +237,7 @@ img {
 
 #mobile-body {
 	position: absolute;
-	top: 145px;
+	top: 45px;
 	bottom: 55px;
 	width: 100%;
 	background: #E8F9F6
@@ -260,8 +260,8 @@ img {
 }
 
 #mobile-body-bg:before {
-	position: relative;
-	width: 100%;
+	position: fixed;
+	width: 200%;
 	height: 25px;
 	background: -webkit-gradient(linear, left top, left bottom, color-stop(0, rgba(34, 195, 170, 0.1)), color-stop(0, transparent));
 	background: -webkit-linear-gradient(rgba(34, 195, 170, 0.1) 0, transparent);
