@@ -11,7 +11,10 @@
     i18n: company_a_date
   degree:
     detail: Master of Arts in Statistics 
-    i18n: company_a_date   
+    i18n: company_b_job 
+  gpa:
+    detail: "3.86/4.0"
+    i18n: company_b_job   
   course:
     detail: 
     i18n: company_a_job
@@ -29,6 +32,9 @@
   degree:
     detail: Exchange Student in Mathematics
     i18n: company_b_job 
+  gpa:
+    detail: "3.8/4.0 (top 1)"
+    i18n: company_b_job 
   course:
     detail:
     i18n: company_b_job
@@ -45,7 +51,10 @@
     i18n: company_b_date
   degree:
     detail: Bachelor of Science in Statistics 
-    i18n: company_a_date 
+    i18n: company_b_job 
+  gpa:
+    detail: "3.68/4.0 (top 5%)"
+    i18n: company_b_job 
   course:
     detail:
     i18n: company_b_job
