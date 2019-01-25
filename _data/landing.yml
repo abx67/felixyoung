@@ -42,3 +42,9 @@
   name: Links
   tpl: links.html
   css: contact
+
+- id: chatbot
+  i18n: nav.chatbot
+  name: ChatBot
+  tpl: chatbot.html
+  css: contact
