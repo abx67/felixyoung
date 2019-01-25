@@ -30,6 +30,12 @@
   tpl: skills.html
   css: team
 
+- id: chatbot
+  i18n: nav.chatbot
+  name: ChatBot
+  tpl: chatbot.html
+  css: team
+
 - id: blog
   i18n: nav.blog
   name: Blog
