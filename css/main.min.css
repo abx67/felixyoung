@@ -206,7 +206,7 @@ img {
 @media (max-width:480px) {
 	#mobile {
 		left: 0;
-		top: 0;
+		top: 1000;
 		bottom: 0;
 		right: 0;
 		margin-left: 0;
@@ -441,7 +441,7 @@ img {
 
 #mobile.has-prompt #prompt-bg {
 	position: absolute;
-	top: 100;
+	top: 0;
 	z-index: 50;
 	display: block;
 	width: 100%;
