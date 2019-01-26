@@ -211,13 +211,13 @@ img {
 		right: 200;
 		margin-left: 200;
 		width: auto;
-		-webkit-border-radius: 0;
-		border-radius: 0
+		-webkit-border-radius: 100;
+		border-radius: 100
 	}
 
 	#mobile.has-prompt:after {
-		-webkit-border-radius: 0 !important;
-		border-radius: 0 !important
+		-webkit-border-radius: 100 !important;
+		border-radius: 100 !important
 	}
 
 	#mobile-head {
@@ -225,12 +225,12 @@ img {
 	}
 
 	#mobile-body {
-		top: 0 !important
+		top: 1000 !important
 	}
 
 	#prompt-body {
-		-webkit-border-radius: 0 !important;
-		border-radius: 0 !important
+		-webkit-border-radius: 100 !important;
+		border-radius: 100 !important
 	}
 
 }
