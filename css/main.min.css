@@ -157,9 +157,9 @@ img {
 }
 
 #mobile {
-	position: relative;
+	position: absolute;
 	left: 50%;
-	top: 130px;
+	top: 30px;
 	bottom: 30px;
 	overflow: hidden;
 	width: 360px;
