@@ -34,7 +34,7 @@
   i18n: nav.chatbot
   name: ChatBot
   tpl: chatbot.html
-  css: team
+  css: ./css/main.min.css
 
 - id: blog
   i18n: nav.blog
