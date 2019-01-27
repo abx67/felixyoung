@@ -8,7 +8,7 @@
     width: $mobile-width;
     margin-left: -$mobile-width / 2;
 
-    background-color: black;
+    background-color: white;
     border-radius: $radius-lg;
     box-shadow: 0 0 30px 0 rgba(34, 195, 170, 0.5);
 
@@ -53,7 +53,7 @@
 @media (max-width: 480px) {
     #mobile {
         left: 0;
-        top: 0;
+        top: 1000;
         bottom: 0;
         right: 0;
         margin-left: 0;
