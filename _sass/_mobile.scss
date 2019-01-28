@@ -1,6 +1,8 @@
 #mobile {
     position: absolute;
     left: 50%;
+    top: 5030px;
+    bottom: -4800px;
     overflow: hidden;
 
     width: $mobile-width;
@@ -20,12 +22,12 @@
         background: white;
     }
 
-    #mobile-head-title {
-        padding: 12px;
+        #mobile-head-title {
+            padding: 12px;
 
-        color: $clr-text-light;
-        text-align: center;
-    }
+            color: $clr-text-light;
+            text-align: center;
+        }
 
     #mobile-foot {
         position: absolute;
