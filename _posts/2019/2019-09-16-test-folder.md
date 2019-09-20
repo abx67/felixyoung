@@ -6,7 +6,7 @@ date:   2019-09-03
 desc: Fan is very pleased to open his personal blog page
 keywords: 'Jalpc,Jekyll,gh-pages,website,blog,easy'
 categories:
-  - HTML
+  - 2019
 tags:
   - Jalpc
   - Jekyll
