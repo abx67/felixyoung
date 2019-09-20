@@ -15,7 +15,7 @@ So from this paper. “[Multi-Scale Context Aggregation by Dilated Convolutions]
 
 ### Difference between Convolution and Dilated Convolution
 
-Let  be a discrete function. Let  and let be a discrete filter of size . The discrete convolution operator  can be defined as
+Let $F : \mathbb{Z}^2 \rightarrow \mathbb{R}$ be a discrete function. Let  and let be a discrete filter of size . The discrete convolution operator  can be defined as
 
 (F\star k)(p) = \sum_{s+t=p}F(s)k(t). \tag{1}
 To generalize this operator, let  be a dilation factor and let  be defined as
