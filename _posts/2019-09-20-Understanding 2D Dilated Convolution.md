@@ -9,8 +9,6 @@ categories:
 tags: null
 icon: icon-html
 ---
-## <center>Understanding 2D Dilated Convolution</center>
-
 So from this paper. “[Multi-Scale Context Aggregation by Dilated Convolutions](https://arxiv.org/abs/1511.07122)”, I was introduced to Dilated Convolution Operation.
 
 ### Difference between Convolution and Dilated Convolution
