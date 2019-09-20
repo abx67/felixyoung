@@ -11,4 +11,6 @@ icon: icon-html
 ---
 ## Understanding 2D Dilated Convolution
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+So from this paper. “[Multi-Scale Context Aggregation by Dilated Convolutions](https://arxiv.org/abs/1511.07122)”, I was introduced to Dilated Convolution Operation.
+
+### Difference between Convolution and Dilated Convolution
