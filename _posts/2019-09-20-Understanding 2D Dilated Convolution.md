@@ -8,7 +8,6 @@ categories:
   - learning
 tags: null
 icon: icon-html
-keywords: ''
 ---
 ## Understanding 2D Dilated Convolution
 
