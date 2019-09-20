@@ -9,16 +9,11 @@ layout: default
         <div class="col-lg-10 col-lg-offset-1">
             <div class="ibox">
                 <div class="ibox-content">
-<div class="post-categories">
-  {% if post %}
-    {% assign categories = post.categories %}
-  {% else %}
-    {% assign categories = page.categories %}
-  {% endif %}
-  {% for category in categories %}
-  <a href="{{site.baseurl}}/categories/#{{category|slugize}}">
-      {{category}}</a>
-  {% unless forloop.last %}&nbsp;
+                    <div class="pull-right">
+                    	{% for category in page.categories %}
+                        	<a class="btn btn-white btn-xs" href="{{ category | downcase | prepend: '/' | prepend: site.baseurl }}">{{ category }}</a>
+                        {% endfor %}
+                    </div>
                     <div class="text-center article-title">
                     <span class="text-muted"><i class="fa fa-clock-o"></i> {{ page.date | date: "%-d %b %Y" }}</span>
                         <h1>
@@ -44,9 +39,6 @@ layout: default
                             </div>
                         </div>
                     </div>
-{% endunless %}
-  {% endfor %}
-</div>
                     <br>
                     <div class="row">
                         <div class="col-lg-12">
