@@ -2,7 +2,7 @@
 published: true
 layout: post
 mathjax: true
-date: 2019-09-20T00:00:00.000Z
+date: 2019-09-20
 desc: Understanding 2D Dilated Convolution
 categories:
   - Learning
