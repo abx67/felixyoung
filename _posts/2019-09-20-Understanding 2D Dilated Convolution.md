@@ -21,7 +21,7 @@ To generalize this operator, let  be a dilation factor and let  be defined as
 $$(F\star_l k)(p) = \sum_{s+l_t=p}F(s)k(t). \tag{2}$$
 From formula $(1)$, it is a general definition of convolution, while the kernel size is $p$. For example, let $p=(3,3)$ and $s=(1,2)$ then we get $t=(2,1)$ in order to let $s + t = p$. Then use mapping $F$ to get raw image data and mapping $k$ to get filter data value and conduct simple real number multiplication. Finally sum them up. This is a basic convolution operation.
 
-As for dilation convolution defined as formula $(1)$. Take the same example as above, let $p=(3,3)$ and $s=(1,2)$ then we get $l_t=(2,1)$ in order to let $s + l_t = p$. And we can e.g. set $t = (4,2)$ which shows in plot $(b). In other word, instead of choose value adjacently from a $(3,3)$ filter, we use a $(7,7)$ filter but only use 3x3 values inside it to conduct convolution operation, which is the red point in plot $(b)$.
+As for dilation convolution defined as formula $(1)$. Take the same example as above, let $p=(3,3)$ and $s=(1,2)$ then we get $l_t=(2,1)$ in order to let $s + l_t = p$. And we can e.g. set $t = (4,2)$ which shows in plot $(b)$. In other word, instead of choose value adjacently from a $(3,3)$ filter, we use a $(7,7)$ filter but only use 3x3 values inside it to conduct convolution operation, which is the red point in plot $(b)$.
 
 ### Advantages
 
