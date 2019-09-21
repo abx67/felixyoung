@@ -29,4 +29,4 @@ By doing this, the receptive field increased from $(3,3)$ to $(7,7)$. Different 
 
 Dilated convolution is widely and efficiently used in semantic segmentation area.
 
-<img src="//img/_posts/201909/2D Dilated Convolution.png" alt="hi" class="inline"/>
+<img src="../img/_posts/201909/2D Dilated Convolution.png" alt="hi" class="inline"/>
