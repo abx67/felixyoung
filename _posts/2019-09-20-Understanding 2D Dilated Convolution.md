@@ -2,7 +2,7 @@
 published: true
 layout: post
 mathjax: true
-date: 2019-09-20
+date: 2019-09-20T00:00:00.000Z
 desc: Understanding 2D Dilated Convolution
 categories:
   - Learning
@@ -11,7 +11,7 @@ icon: icon-html
 ---
 From this paper. “[Multi-Scale Context Aggregation by Dilated Convolutions](https://arxiv.org/abs/1511.07122)”, I was introduced to Dilated Convolution Operation.
 
-## Difference between Convolution and Dilated Convolution
+### Difference between Convolution and Dilated Convolution
 
 Let $F : \mathbb{Z}^2 \rightarrow \mathbb{R}$ be a discrete function. Let $\Omega_r = [-r,r]^2 \cap \mathbb{Z}^2$ and let $k : \Omega_r \rightarrow \mathbb{R}$ be a discrete filter of size $(2r+1)^2$. The discrete convolution operator $\star$ can be defined as
 
@@ -23,7 +23,7 @@ From formula $(1)$, it is a general definition of convolution, while the kernel 
 
 As for dilation convolution defined as formula $(1). Take the same example as above, let $p=(3,3)$ and $s=(1,2)$ then we get $l_t=(2,1)$ in order to let $s + l_t = p$. And we can e.g. set $t = (4,2)$ which shows in plot $(b). In other word, instead of choose value adjacently from a $(3,3)$ filter, we use a $(7,7)$ filter but only use 3x3 values inside it to conduct convolution operation, which is the red point in plot $(b)$.
 
-## Advantages
+### Advantages
 
 By doing this, the receptive field increased from $(3,3)$ to $(7,7)$. Different from pooling, dilated convolution do not lose information, and the meantime increase the receptive field. Every filter output is able to cover a wide range of information.
 
